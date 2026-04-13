@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "langsmith": {
+      "command": "npx",
+      "args": ["-y", "@langchain/mcp-server-langsmith"]
+    }
+  }
+}
